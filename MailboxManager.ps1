@@ -11,7 +11,7 @@ $btnEnableArchive_Click = {
 }
 
 $btnAutoExpand_Click = {
-    Enable-AutoExpand
+    Enable-AutoExpand -Verbose
 }
 
 $ShownHandler = {
